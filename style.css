@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+#main_title{
+    color: brown;
+    text-align: center;
+    font-family: serif;
+    background-color: rgba(32, 15, 15, 0.5);
+    font-size: 1.5em;
+}
+p{
+    text-align: justify;
+    width: 80%;
+    margin: auto;
+    font-size: 0.8em;
+}
